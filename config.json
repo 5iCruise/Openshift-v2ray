@@ -9,8 +9,8 @@
       "clients": [
         {
           "id": "your_uuid",
-          "alterId": 64
-          "security": "自己希望的格式"
+          "alterId": 64,
+          "security":"aes-128-cfb"
         }
       ]
     },
