@@ -8,7 +8,7 @@
     "settings": {
       "clients": [
         {
-          "id": "your_uuid",
+          "id": "7e98b03d-33d7-4995-b2e9-7fc36dbbc92b",
           "alterId": 64,
           "security":"aes-128-cfb"
         }
